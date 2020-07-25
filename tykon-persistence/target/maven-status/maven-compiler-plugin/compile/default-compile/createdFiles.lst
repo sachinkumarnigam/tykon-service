@@ -1,0 +1,8 @@
+com/tykon/persistence/jpa/mongo/model/DimensionsDocument.class
+com/tykon/persistence/jpa/dao/BaseDAO.class
+com/tykon/persistence/jpa/mysql/repository/base/BaseJpaRepository.class
+com/tykon/persistence/jpa/mysql/model/base/BaseEntity.class
+com/tykon/persistence/jpa/dao/BaseCrudDAO.class
+com/tykon/persistence/jpa/mongo/repository/base/BaseMongoRepository.class
+com/tykon/persistence/jpa/mongo/model/base/AuditEntity.class
+com/tykon/persistence/jpa/mongo/model/AttachementDocument.class

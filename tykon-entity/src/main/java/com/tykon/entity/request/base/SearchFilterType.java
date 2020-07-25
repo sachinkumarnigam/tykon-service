@@ -1,0 +1,25 @@
+package com.tykon.entity.request.base;
+
+public enum SearchFilterType {
+
+	SCHOOLID(10),
+	SCHOOLID_AND_USERID(20),
+	USER_NAME(30),
+	USER_ID(40),
+	ENTITY_ID(50),
+	SCHOOLID_AND_CLASSID(60),
+	SCHOOLID_AND_GROUPID(70),
+	SCHOOLID_AND_STUDENTID(80),
+	SCHOOLID_AND_ENTITYID(90),
+	SCHOOLID_AND_TEACHERID(100),
+	SCHOOLID_AND_CLASSTEACHERID(110),
+	SCHOOLID_AND_TEACHERID_OR_CLASSTEACHERID(120),
+	SCHOOLID_AND_CONTACTNUMBER(130);
+	
+	public int value;
+
+	private SearchFilterType(int value) {
+		this.value = value;
+	}
+
+}
