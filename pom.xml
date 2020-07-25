@@ -27,7 +27,7 @@
 		<commons-codec.version>1.9</commons-codec.version>
 		<aws-java-sdk.version>1.11.163</aws-java-sdk.version>
 		<slugify.version>2.3</slugify.version>
-		<commons-fileupload.version>1.3.1</commons-fileupload.version>
+		<commons-fileupload.version>1.3.3</commons-fileupload.version>
 		<commons-io.version>2.5</commons-io.version>
 		<spring-redis.version>1.4.4.RELEASE</spring-redis.version>
 		<org.redisson.version>3.3.0</org.redisson.version>
