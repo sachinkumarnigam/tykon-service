@@ -22,7 +22,7 @@
 		<jjwt.version>0.7.0</jjwt.version>
 		<springfox-swagger.version>2.6.1</springfox-swagger.version>
 		<spring-mobile-device-version>1.1.5.RELEASE</spring-mobile-device-version>
-		<hibernate-validator-version>6.0.15.Final</hibernate-validator-version>
+		<hibernate-validator-version>6.0.20.Final</hibernate-validator-version>
 		<guava-version>27.1-jre</guava-version>
 		<commons-codec.version>1.9</commons-codec.version>
 		<aws-java-sdk.version>1.11.163</aws-java-sdk.version>
